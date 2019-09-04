@@ -1,0 +1,16 @@
+{
+  "name": "release-push",
+  "version": "1.0.0",
+  "description": "automatic get release push",
+  "main": "index.js",
+  "author": "zysndy <zysndy@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.7.4",
+    "tslib": "^1.10.0",
+    "typescript": "^3.6.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
